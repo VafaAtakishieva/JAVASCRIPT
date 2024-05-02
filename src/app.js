@@ -1,7 +1,7 @@
-let m = prompt ("birinci terefi daxil edin");
-let n = prompt ("ikinci terefi daxil edin");
-let sahe = m*n
-alert(sahe);
+// let m = prompt ("birinci terefi daxil edin");
+// let n = prompt ("ikinci terefi daxil edin");
+// let sahe = m*n
+// alert(sahe);
 
 
 // let a = Number (prompt ("Birinci terefi daxil edin"));
@@ -13,6 +13,11 @@ alert(sahe);
 // let hp = (a + b + c) / 2; // hp = halfperimetr
 // let sahe = Math.sqrt(hp*(hp-a)*(hp-b)*(hp-c));
 // alert(sahe);
+
+
+let m = prompt("metn daxil edin");
+
+alert  (m.length);
 
 
 
